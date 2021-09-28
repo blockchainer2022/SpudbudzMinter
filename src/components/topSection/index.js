@@ -113,7 +113,7 @@ const TopSection = ({ mint, totalSupply, price, account, loadWeb3 }) => {
                   style={
                     !account
                       ? {
-                          color: "#fff",
+                          color: "#2c2a55",
                           marginTop: "5px",
                           display: "inline-block",
                           fontFamily: "Roboto",
